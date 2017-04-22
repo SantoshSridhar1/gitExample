@@ -1,2 +1,3 @@
 contents of file1 to be tracked
 few more contents
+few more changes thru the branch text-editor
